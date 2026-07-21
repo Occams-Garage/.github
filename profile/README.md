@@ -5,8 +5,3 @@
   <source media="(prefers-color-scheme: light)" srcset="logo-light.svg" />
   <img src="logo-light.svg" alt="Occam's Garage" width="200" />
 </picture>
-
-# Occam's Garage
-Cut to what works.
-
-</div>
